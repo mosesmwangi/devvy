@@ -33,4 +33,6 @@ textarea{
 }
 p {
     text-align: center;
+    background-color: #737373;
+    height: 50px;
 }
